@@ -1,0 +1,12 @@
+html{margin:0;padding:0}
+body{padding:4px}
+h3{border-bottom: 1px solid #999;}
+.wikitable{
+		border:1px solid rgb(170, 170, 170);
+		border-collapse: collapse;width:100%;
+		background: rgb(249, 249, 249);
+}
+table{font-size:100%;}
+.wikitable td, .wikitable th{border:1px solid #ccc;padding:4px;}
+.wikitable th{background: rgb(242, 242, 242);}
+	

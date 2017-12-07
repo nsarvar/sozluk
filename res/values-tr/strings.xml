@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sözlük</string>
+    
+    <string name="title">Türkçe-Özbekçe</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    <string name="search_hint">Sözcük yazın</string>
+    <string name="change_lang">Uzbek-Turk</string>
+    
+    <!-- Main act Menu -->
+    <string name="history">Aranan kelimeler</string>
+    <string name="phrases">Önemli ifadeler</string>
+    <string name="about">Hakkinda</string>
+    <string name="about_software">Ilave hakkinda</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sözlük</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="title">O\'zbekcha-Turkcha</string>
+    
+    <string name="search_hint">So\'zni kiriting</string>
+    <string name="change_lang">Uzbek-Turk</string>
+    
+    <!-- Main act Menu -->
+    <string name="history">Qidirilgan so\'zlar</string>
+    <string name="phrases">Muhim iboralar</string>
+    <string name="about">Haqida</string>
+    <string name="about_software">Dastur haqida</string>
+</resources>
